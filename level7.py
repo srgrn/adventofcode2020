@@ -64,7 +64,7 @@ def find_internal_bags(count,rules,color,):
 	return count
 
 def main():
-	inputpath = 'level7input'
+	inputpath = 'input/inputlevel7.txt'
 	# inputpath = 'demoinput'
 	rules = read_input(inputpath,readrules)
 	# print(rules)
