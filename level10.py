@@ -29,6 +29,7 @@ def find_possible_strings(arr):
     # arr.append(arr[-1] + 3)
     # arr.insert(0,0)
     valid = lambda x: arr[x]+3 <= arr[x+1]
+    for valid()
     return 0
 
 def main():
